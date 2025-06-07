@@ -1,0 +1,9 @@
+# Node modules
+backend-productos/node_modules/
+frontend-productos/node_modules/
+
+# Logs
+*.log
+
+# .env (por si usas)
+.env
